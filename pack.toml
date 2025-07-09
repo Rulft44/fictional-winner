@@ -1,0 +1,13 @@
+name = "NGRCraft"
+author = "Nuts"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d655d87ba805288956f95cad9296df58a5e41183a2b7504bcd1bd5d68be2343a"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.20.1"
