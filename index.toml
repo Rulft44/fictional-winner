@@ -5,6 +5,10 @@ file = "README.md"
 hash = "fc9782a46d64528fc53734da66ccb10480adc74406ddb3ebbc90f79d263c1f2f"
 
 [[files]]
+file = "index.html"
+hash = "af9df90289b05f868f3466e248eedaf3968f0b7b1120f4ac06129ab0f951dc91"
+
+[[files]]
 file = "mods/AltOriginGui-fabric-1.20.1-1.1.1.jar"
 hash = "8c5bef739076add3af14fc7079a58d2ef6b1103c45fd4c5c2ccc8635e72fb5a9"
 
@@ -265,10 +269,6 @@ file = "mods/modmenu-7.2.2.jar"
 hash = "a041b0f0305ffa5eb90120aa23768e1cfbb27583904b1751e3783c0f69382f1a"
 
 [[files]]
-file = "mods/moonlight-1.20-2.14.13-fabric.jar"
-hash = "d1ce7724a9425c6a22c81cf2eb6b20dfbd876c43b380fa91978bebd87d0f5801"
-
-[[files]]
 file = "mods/notenoughanimations-fabric-1.9.3-mc1.20.1.jar"
 hash = "9bfa70577ae20c02cf66988d787e8051b341b02047af38aeaf936ab453ccd9f4"
 
@@ -327,10 +327,6 @@ hash = "abb0ab23961a563d5307d8527f718c0eed4f7f96312178960da4e6769a1012f2"
 [[files]]
 file = "mods/spell_power-0.12.0+1.20.1.jar"
 hash = "896008ae5bf2869074f7b0a64a18bf12ea258b24da2ffb1ad9a87426db8b8662"
-
-[[files]]
-file = "mods/supplementaries-1.20-3.1.35-fabric.jar"
-hash = "2b7cf5b1a8f3277b1af80fef22b0d4c31d506b34f5fe740eb2b5a5c87deaa79e"
 
 [[files]]
 file = "mods/tooltipfix-1.1.1-1.20.jar"
